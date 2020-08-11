@@ -1,2 +1,2 @@
 # bikerental
-a website that rents us a bike
+This website is used to rent the people a bike/scooty
